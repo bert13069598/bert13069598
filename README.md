@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
 <!--
 **bert13069598/bert13069598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <a href="링크"><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
 -->
-
-<h1></h1>
 
 #### Code
 <div>
@@ -48,5 +46,4 @@ Here are some ideas to get you started:
 <h1></h1>
 
 ![bert's GitHub stats](https://github-readme-stats.vercel.app/api?username=bert13069598&show_icons=true&theme=radical)
-
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
