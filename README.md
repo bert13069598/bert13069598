@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1F305F&height=200&section=header&text=bert%20profile&&fontSize=30)
 <!--
 **bert13069598/bert13069598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
