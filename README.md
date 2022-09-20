@@ -17,22 +17,21 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-    
-#### Code
+<p>Code</p>
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4169E1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
-#### Tool
+<p>Tool</p>
 <div>
   <a href="https://visualstudio.microsoft.com/ko/vs/"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   <a href="https://www.jetbrains.com/ko-kr/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
 </div>
 
-#### Framework
+<p>Framework</p>
 <div>
   <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
   <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
 </div>
 
-#### Environment
+<p>Environment</p>
 <div>
   <a href="https://www.microsoft.com/ko-kr"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
@@ -52,7 +51,3 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
-<h1></h1>
-
-
