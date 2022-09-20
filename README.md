@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - <a href="링크"><img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/></a>
 -->
+
+<table>
+  <tr>
+    <td>
+    
 #### Code
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
@@ -41,7 +46,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 </div>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bert13069598&show_icons=true&theme=radical"/>
+    </td>
+  </tr>
+</table>
 
 <h1></h1>
 
-![bert's GitHub stats](https://github-readme-stats.vercel.app/api?username=bert13069598&show_icons=true&theme=radical)
+
