@@ -51,3 +51,4 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+<a href="https://simpleicons.org/"><img src="https://img.shields.io/badge/Simple Icons-111111?style=flat-square&logo=Simple Icons&logoColor=white"/>
