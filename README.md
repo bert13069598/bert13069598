@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1F305F&height=150&section=header&text=BERT's%20Github%20Profile&fontColor=00599C&fontSize=30&animation=fadeIn&fontAlign=50&fontAlignY=33)
+<a href="https://github.com/bert13069598"><img src="https://capsule-render.vercel.app/api?type=waving&color=1F305F&height=150&section=header&text=BERT's%20Github%20Profile&fontColor=00599C&fontSize=30&animation=fadeIn&fontAlign=50&fontAlignY=33"/></a>
 <!--
 **bert13069598/bert13069598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
