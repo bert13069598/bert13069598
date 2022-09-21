@@ -19,8 +19,8 @@ Here are some ideas to get you started:
     <td>
 <p>Language</p>
 <div>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <a href="https://github.com/bert13069598?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+  <a href="https://github.com/bert13069598?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4169E1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
