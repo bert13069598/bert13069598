@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-<p>Code</p>
+<p>Language</p>
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
