@@ -46,6 +46,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 </div>
+
+<p>Embedded</p>
+<div>
+  <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>
+</div>
     </td>
     <td>
     .  
