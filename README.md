@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 </div>
     </td>
     <td>
-      <a href="https://github.com/bert13069598?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=bert13069598&show_icons=true&theme=radical"/></a>
+      
     </td>
   </tr>
 </table>
