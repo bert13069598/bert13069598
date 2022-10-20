@@ -59,7 +59,8 @@ Here are some ideas to get you started:
 </div>
     </td>
     <td>
-    .  
+    <p>🔭 The original thesis about BERT</p>
+    https://arxiv.org/pdf/1810.04805.pdf
     </td>
   </tr>
 </table>
