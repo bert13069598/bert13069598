@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     <td>
 <p>Language</p>
 <div>
+  <a href="https://github.com/bert13069598?tab=repositories&q=&type=&language=c&sort="><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <a href="https://github.com/bert13069598?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <a href="https://github.com/bert13069598?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
