@@ -59,8 +59,9 @@ Here are some ideas to get you started:
 </div>
     </td>
     <td>
-    <p>⚡ The original thesis about BERT</p>
+      <img src="https://user-images.githubusercontent.com/89738612/210817002-3d6c4967-ba2b-4c17-851e-57c988b91222.jpg" width="512" height="341.5"/>
       <!--
+    <p>⚡ The original thesis about BERT</p>
     https://arxiv.org/pdf/1810.04805.pdf
       -->
     </td>
