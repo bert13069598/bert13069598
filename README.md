@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/bert13069598?tab=repositories&q=&type=&language=c&sort="><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <a href="https://github.com/bert13069598?tab=repositories&q=&type=&language=c%2B%2B&sort="><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <a href="https://github.com/bert13069598?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </div>
 
 <p>Tool</p>
@@ -37,13 +36,11 @@ Here are some ideas to get you started:
 
 <p>Framework</p>
 <div>
-  <a href="https://www.tensorflow.org/?hl=ko"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 </div>
 
 <p>Library</p>
 <div>
-  <a href="https://keras.io/"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
   <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
   <a href="https://www.ros.org/"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
 </div>
@@ -51,8 +48,7 @@ Here are some ideas to get you started:
 <p>Environment</p>
 <div>
   <a href="https://www.microsoft.com/ko-kr"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-  <a href="https://releases.ubuntu.com/20.04.5/?_ga=2.241304130.1565568178.1668053405-1036555101.1666157737"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+  <a href="https://releases.ubuntu.com/20.04.5/?_ga=2.241304130.1565568178.1668053405-1036555101.1666157737"><img src="https://img.shields.io/badge/Ubuntu20.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 </div>
 
 <p>Embedded</p>
