@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <p>Framework</p>
 <div>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+  <a href="https://pytorch.org/get-started/locally/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 </div>
 
 <p>Library</p>
@@ -47,8 +47,8 @@ Here are some ideas to get you started:
 
 <p>Environment</p>
 <div>
-  <a href="https://www.microsoft.com/ko-kr"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
-  <a href="https://releases.ubuntu.com/20.04.5/?_ga=2.241304130.1565568178.1668053405-1036555101.1666157737"><img src="https://img.shields.io/badge/Ubuntu20.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/ko-kr/software-download/windows10ISO"><img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+  <a href="https://releases.ubuntu.com/20.04.5/?_ga=2.241304130.1565568178.1668053405-1036555101.1666157737"><img src="https://img.shields.io/badge/Ubuntu 20.04-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
 </div>
 
 <p>Embedded</p>
