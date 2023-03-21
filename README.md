@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <div>
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>
-  <a href="https://www.raspberrypi.com/"><img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+  <a href="https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/"><img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
     </td>
     <td>
