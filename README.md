@@ -42,14 +42,17 @@ Here are some ideas to get you started:
 
 <p>Framework</p>
 <div>
-  <a href="https://pytorch.org/get-started/locally/">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+  <a href="http://wiki.ros.org/Documentation/">
+    <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
 </div>
 
 <p>Library</p>
 <div>
-  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-  <a href="http://wiki.ros.org/Documentation/"><img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
+  <a href="https://pytorch.org/get-started/locally/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+
 </div>
 
 <p>Environment</p>
@@ -68,7 +71,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>
   <a href="https://github.com/bert13069598?tab=repositories&q=JetsonNano&type=&language=&sort=name">
     <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
-  
 </div>
     </td>
     <td>
