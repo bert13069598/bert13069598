@@ -45,17 +45,18 @@ Here are some ideas to get you started:
 
 <p>Framework</p>
 <div>
+  <a href="https://pytorch.org/get-started/locally/">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
   <a href="http://wiki.ros.org/Documentation/">
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
+  <a href="https://onnx.ai/">
+    <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/></a>
 </div>
 
 <p>Library</p>
 <div>
-  <a href="https://pytorch.org/get-started/locally/">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
   <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
-
 </div>
 
 <p>Environment</p>
