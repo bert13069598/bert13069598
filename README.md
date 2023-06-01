@@ -75,8 +75,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   <a href="https://www.raspberrypi.com/">
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>
-  <a href="https://github.com/bert13069598?tab=repositories&q=JetsonNano&type=&language=&sort=name">
-    <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+  <a href="https://github.com/bert13069598?tab=repositories&q=Jetson&type=&language=&sort=name">
+    <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
     </td>
     <td>
