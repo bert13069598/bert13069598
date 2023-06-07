@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-<p>Language</p>
+<!-- <p>Language</p> -->
 <div>
   <a href="https://github.com/bert13069598?tab=repositories&q=&type=&language=c&sort=">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 </div>
 
-<p>Tool</p>
+<!-- <p>Tool</p> -->
 <div>
   <a href="https://visualstudio.microsoft.com/ko/vs/">
     <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<p>Framework</p>
+<!-- <p>Framework</p> -->
 <div>
   <a href="https://pytorch.org/get-started/locally/">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
@@ -53,13 +53,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/></a>
 </div>
 
-<p>Library</p>
+<!-- <p>Library</p> -->
 <div>
   <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
 </div>
 
-<p>Environment</p>
+<!-- <p>Environment</p> -->
 <div>
   <a href="https://www.microsoft.com/ko-kr/software-download/windows10ISO">
     <img src="https://img.shields.io/badge/Windows 10-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 </div>
 
-<p>Embedded</p>
+<!-- <p>Embedded</p> -->
 <div>
   <a href="https://www.arduino.cc/">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
