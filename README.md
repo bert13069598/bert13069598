@@ -80,10 +80,8 @@ Here are some ideas to get you started:
 </div>
     </td>
     <td>
-      [![텍스트](https://github.com/bert13069598/bert13069598/assets/89738612/ebf2a0a2-cfda-4aac-9283-feda6d0d028d)](https://bert13069598.github.io)
-      
-      <a href="https://bert13069598.github.io">
-        <img src="https://github.com/bert13069598/bert13069598/assets/89738612/ebf2a0a2-cfda-4aac-9283-feda6d0d028d" width="200" height="200"/></a>
+      <a href="https://bert13069598.github.io"></a>
+        <img src="https://github.com/bert13069598/bert13069598/assets/89738612/ebf2a0a2-cfda-4aac-9283-feda6d0d028d" width="200" height="200"/>
     </td>
   </tr>
 </table>
