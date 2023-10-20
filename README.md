@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 </div>
     </td>
     <td>
+      <img src="https://github.com/bert13069598/bert13069598/assets/89738612/12bb186f-f233-471d-a849-3729f6b2025b" width="200" height="200"/></a>
 <!--       <a href="https://arxiv.org/pdf/1810.04805.pdf">
         <img src="https://user-images.githubusercontent.com/89738612/210817002-3d6c4967-ba2b-4c17-851e-57c988b91222.jpg" width="512" height="341.5"/></a> -->
     </td>
