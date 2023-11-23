@@ -79,10 +79,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
     </td>
-    <td>
+<!--     <td>
       <a href="https://bert13069598.github.io"></a>
         <img src="https://github.com/bert13069598/bert13069598/assets/89738612/ebf2a0a2-cfda-4aac-9283-feda6d0d028d" width="200" height="200"/>
-    </td>
+    </td> -->
   </tr>
 </table>
 <a href="https://simpleicons.org/">
