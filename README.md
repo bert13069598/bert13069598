@@ -40,7 +40,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
   <a href="https://www.jetbrains.com/ko-kr/clion/">
     <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/></a>
-  
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/></a>
 </div>
 
 <!-- <p>Framework</p> -->
