@@ -68,6 +68,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/cuda-downloads">
+    <img src="https://img.shields.io/badge/CUDA Toolkit-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/cudnn-downloads">
+    <img src="https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
 
 <!-- <p>Embedded</p> -->
