@@ -72,6 +72,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CUDA Toolkit-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
   <a href="https://developer.nvidia.com/cudnn-downloads">
     <img src="https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/sdk-manager">
+    <img src="https://img.shields.io/badge/SDK Manager-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
 
 <!-- <p>Embedded</p> -->
