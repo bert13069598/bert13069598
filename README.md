@@ -74,6 +74,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
   <a href="https://developer.nvidia.com/sdk-manager">
     <img src="https://img.shields.io/badge/SDK Manager-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/nsight-dl-designer/getting-started">
+    <img src="https://img.shields.io/badge/Nsight-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
 
 <!-- <p>Embedded</p> -->
