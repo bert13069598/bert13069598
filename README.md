@@ -74,8 +74,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
   <a href="https://developer.nvidia.com/sdk-manager">
     <img src="https://img.shields.io/badge/SDK Manager-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
-  <a href="https://developer.nvidia.com/nsight-dl-designer/getting-started">
-    <img src="https://img.shields.io/badge/Nsight-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
 
 <!-- <p>Embedded</p> -->
@@ -84,8 +82,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   <a href="https://www.raspberrypi.com/">
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>
-  <a href="https://github.com/bert13069598?tab=repositories&q=Jetson&type=&language=&sort=name">
-    <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+</div>
+
+<div>
+  <a href="https://github.com/ultralytics/ultralytics">
+    <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white"/></a>
 </div>
     </td>
 <!--     <td>
@@ -95,4 +96,4 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <a href="https://simpleicons.org/">
-  <img src="https://img.shields.io/badge/Simple Icons-111111?style=flat-square&logo=Simple Icons&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simple Icons-111111?style=flat-square&logo=simpleicons&logoColor=white"/>
