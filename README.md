@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 <!-- <p>Tool</p> -->
 <div>
-  <a href="https://visualstudio.microsoft.com/ko/vs/">
-    <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
   <a href="https://www.jetbrains.com/ko-kr/pycharm/">
@@ -52,12 +50,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>
   <a href="https://onnx.ai/">
     <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white"/></a>
-</div>
-
-<!-- <p>Library</p> -->
-<div>
   <a href="https://opencv.org/">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+  <a href="https://github.com/ultralytics/ultralytics">
+    <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white"/></a>
 </div>
 
 <!-- <p>Environment</p> -->
@@ -68,10 +64,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
-  <a href="https://developer.nvidia.com/cuda-downloads">
-    <img src="https://img.shields.io/badge/CUDA Toolkit-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
-  <a href="https://developer.nvidia.com/cudnn-downloads">
-    <img src="https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
   <a href="https://developer.nvidia.com/sdk-manager">
     <img src="https://img.shields.io/badge/SDK Manager-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
@@ -82,11 +74,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   <a href="https://www.raspberrypi.com/">
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/cuda-downloads">
+    <img src="https://img.shields.io/badge/CUDA Toolkit-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
+  <a href="https://developer.nvidia.com/cudnn-downloads">
+    <img src="https://img.shields.io/badge/cuDNN-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 </div>
 
 <div>
-  <a href="https://github.com/ultralytics/ultralytics">
-    <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white"/></a>
+
 </div>
     </td>
 <!--     <td>
